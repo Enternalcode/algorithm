@@ -9,9 +9,11 @@ The sequence of operations is the same in either case, but the length of the arr
 determines whether the calculation ends on arr[n] or (1÷arr[n]).
 Arrange the elements to maximize U and the items are in the numerically smallest possible
 order.
-"""
 
-# example_arrs = [21, 34, 5, 7, 9]
+example_arrs = [21, 34, 5, 7, 9]
+result = [9, 21, 5, 34, 7]
+max = 183.6
+"""
 
 """
 According to the title, we need to reach two conditions
